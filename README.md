@@ -1,4 +1,4 @@
-# YouTube Adblock Usescript.
+# YouTube Adblock Userscript.
 This is a Userscript to Block Ads on YouTube
 
 ## HowTo install
