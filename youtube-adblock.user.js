@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube API Request Modifier
+// @name         YouTube Video Ad Blocker
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Modify's YouTube Player API Requests to add adPlaybackContext
